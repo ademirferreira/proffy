@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# Ignore the default SQLite database.
+/src/database/*.sqlite
+
 # production
 /build
 
